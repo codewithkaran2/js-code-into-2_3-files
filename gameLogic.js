@@ -1,3 +1,4 @@
+//gameLogic.js
 // MODE SELECTION BUTTON EVENTS
 const duoBtn = document.getElementById("duoButton");
 const soloBtn = document.getElementById("soloButton");
