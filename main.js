@@ -1,4 +1,4 @@
-//main.js
+
 // Player2 (center)
     const centerX = (canvas.width - barWidth) / 2;
     ctx.textAlign = "center";
